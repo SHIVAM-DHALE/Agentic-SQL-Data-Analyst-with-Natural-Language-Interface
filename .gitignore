@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+.pytest_cache/
+.pytest_tmp/
+.env
+*.pyc
+charts/
+exports/
+.cache/
+requirements.txt.txt
+screenshots/
+langchain_integration_files/
+rag/vector_index/
