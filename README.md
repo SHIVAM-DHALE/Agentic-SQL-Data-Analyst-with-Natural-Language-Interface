@@ -161,8 +161,8 @@ SUM(order_items.quantity * order_items.price)
 Clone the repository:
 
 ```powershell
-git clone https://github.com/Athilesten/Agentic-SQL-Analyst-project.git
-cd Agentic-SQL-Analyst-project
+git clone https://github.com/SHIVAM-DHALE/Agentic-SQL-Data-Analyst-with-Natural-Language-Interface.git
+cd Agentic-SQL-Data-Analyst-with-Natural-Language-Interface
 ```
 
 Create and configure the Python 3.11 environment on Windows:
